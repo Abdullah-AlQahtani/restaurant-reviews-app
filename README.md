@@ -11,7 +11,7 @@ you can do the following in this project :-
 * see the review of each restaurant
 * see the address of the resturant
 * see the Work schedule in the restaurant weekly
-* if you are blind don't worry, we make it easy for you, you can access the website via google chrome extention chromeVox
+* if you are blind don't worry, we make it easy for you, you can access the website via google chrome extention [chromeVox](http://www.chromevox.com/)
 
 In this Project I used:-
 
@@ -24,7 +24,7 @@ In this Project I used:-
 you need to install :-
 
 * python2 or python3 on your computer
-* webbrowser on your pc
+* webbrowser on your pc (Ex: Google Chrome)
 
 
 # Run The Application
