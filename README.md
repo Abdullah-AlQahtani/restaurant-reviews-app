@@ -11,7 +11,7 @@ you can do the following in this project :-
 * see the review of each restaurant
 * see the address of the resturant
 * see the Work schedule in the restaurant weekly
-* if you are blind no problem, you can access the website via google chrome extention chromeVox
+* if you are blind don't worry, we make easy for you, you can access the website via google chrome extention chromeVox
 
 In this Project I used:-
 
